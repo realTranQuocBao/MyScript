@@ -1,0 +1,1 @@
+javascript:b=document.querySelectorAll('tr.unselectedrow td.cell.c2');s='';b.forEach((v)=>s+=(v.innerText+'|'));prompt("Học sinh chưa nộp bài:",s);

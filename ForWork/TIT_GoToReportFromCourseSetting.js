@@ -1,0 +1,1 @@
+javascript:courseID=(new URL(window.location.href)).searchParams.get('id');window.location='https://lmstanphutrung.titkul.edu.vn/report/outline/index.php?id=%27+courseID;

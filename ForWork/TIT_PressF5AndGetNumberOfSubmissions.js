@@ -1,0 +1,1 @@
+javascript:b=document.getElementsByClassName('cell c1 lastcol');prompt("Đã nộp:",(b[2].innerText+'/'+b[1].innerText));
